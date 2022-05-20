@@ -59,7 +59,7 @@ def probability(L):
     return P_array
 
 def fluctuation(Prob_0):
-    """Introducing Poisson fluctuattions to the spatial probality distribution"""
+    """Introducing Poisson fluctuations to the spatial probality distribution"""
     Pois = Prob_0 * 1000
     S = 0
     for i in range(0, 40):
