@@ -111,7 +111,6 @@ for i in range(0, N_image):
     plt.yticks([0, 5, 10, 15, 20, 25, 30, 35, 40], ['-100', '-75', '-50', '-25', '0', '25', '50', '75', '100'])
     plt.xlabel('X coordinate (mm)')
     plt.ylabel('Y coordinate (mm)')
-    plt.title(')
 #    plt.savefig("Kaon.png", dpi = 250)
     plt.show()
 
