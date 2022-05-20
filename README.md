@@ -6,7 +6,7 @@ Personal responsibilities included generation of samples and CNN development.
 
 Convolutional Neural Networks (CNNs) have been widely applied as a high-accuracy visual recognition tool 
 to solve various classification problems. We studied the performance of a multi-layer CNN employed as a classifier
-for a commonly used particle identification technique - Cherenkov Ring-imaging . 
+for a commonly used particle identification technique - Cherenkov Ring-imaging. 
 
 <p align="center">
 <img width="370" alt="Cherenkov" src="https://user-images.githubusercontent.com/66305897/169488702-37bf46d8-bb05-463c-a8e9-a5383db1d0b7.png">
