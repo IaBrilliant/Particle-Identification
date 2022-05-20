@@ -19,7 +19,7 @@ from tqdm import tqdm, trange
 Pad = np.zeros((40, 40))
 
 def ident(h, v): 
-    """#Setting the coordinate system i.e. the identification matrix I"""
+    """Setting the coordinate system i.e. the identification matrix I"""
     x_min = 5 * h
     x_max = 5 * (h+1)
     y_min = 5 * v
