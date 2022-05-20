@@ -1,6 +1,6 @@
 # Particle-Identification
 
-The project was completed jointly with Benjamin Forster, supervised by Prof. Morgan Wascko.
+The project was completed in 2020 jointly with Benjamin Forster, supervised by Prof. Morgan Wascko.
 Personal responsibilities included generation of samples and CNN development. 
  
 
